@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\mindLib\mindLib\bin\Debug\net5.0\mindLib.deps.json
+D:\Visual Studio Projects\mindLib\mindLib\bin\Debug\net5.0\mindLib.dll
+D:\Visual Studio Projects\mindLib\mindLib\bin\Debug\net5.0\ref\mindLib.dll
+D:\Visual Studio Projects\mindLib\mindLib\bin\Debug\net5.0\mindLib.pdb
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\mindLib.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\mindLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\mindLib.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\mindLib.AssemblyInfo.cs
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\mindLib.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\mindLib.dll
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\ref\mindLib.dll
+D:\Visual Studio Projects\mindLib\mindLib\obj\Debug\net5.0\mindLib.pdb

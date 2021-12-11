@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindLib", "mindLib\mindLib.csproj", "{30B81524-36AC-4636-96FE-059AADD9C546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindLib.Tests", "mindLib.Tests\mindLib.Tests.csproj", "{955B9EA8-FAA5-4DF5-A9F6-B0A27C3A3D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B81524-36AC-4636-96FE-059AADD9C546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B81524-36AC-4636-96FE-059AADD9C546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B81524-36AC-4636-96FE-059AADD9C546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B81524-36AC-4636-96FE-059AADD9C546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955B9EA8-FAA5-4DF5-A9F6-B0A27C3A3D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955B9EA8-FAA5-4DF5-A9F6-B0A27C3A3D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955B9EA8-FAA5-4DF5-A9F6-B0A27C3A3D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955B9EA8-FAA5-4DF5-A9F6-B0A27C3A3D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C638EAF5-A869-4497-9588-FFB6F3904CE4}
+	EndGlobalSection
+EndGlobal
